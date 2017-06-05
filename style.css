@@ -80,3 +80,14 @@ section {
   width: 300px;
   justify-content: space-between;
 }
+
+footer {
+  height: 325px;
+  background-color: MediumAquamarine;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
