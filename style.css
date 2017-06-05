@@ -38,15 +38,6 @@ section {
   z-index: 0;
 }
 
-.mainstory {
-  width: 630px;
-}
-
-#mainhead {
-  font-size: 40px;
-  color: white;
-}
-
 }
 .left-column {
   display: flex;
@@ -56,21 +47,18 @@ section {
   justify-content: space-between;
 }
 
-.medium {
+.medium-column {
   display: flex;
   border: 1px solid black;
   flex-basis: 300px;
   flex-direction: column;
 }
 
-.right {
+.right-column {
   display: flex;
   border: 1px solid black;
   flex-basis: 240px;
   flex-direction: column;
-}
-
-
 }
 
 .image-content {
