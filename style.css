@@ -16,9 +16,15 @@ header {
 }
 
 section {
+  margin: 0 auto 78px;
+  padding-top: 116px;
+  display: flex;
+  justify-content: space-around;
+  width: 1232px;
   font-family: Georgia;
   font-size: 17px;
   color: black;
+  z-index: 0;
 }
 
 .logo img {
