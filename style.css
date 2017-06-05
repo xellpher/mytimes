@@ -66,12 +66,19 @@ section {
 
 .camera {
   background-image: url("./resources/images/hipster.png");
+  text-align: center;
+  display: flex;
   font-size: 40px;
   display: flex;
   font-family: Georgia;
   font-weight: bold;
   color: white;
   height: 300px;
+}
+
+.cookie {
+  background-image: url("./resources/images/cookie.png");
+  display: flex;
 }
 
 .other-stories {
