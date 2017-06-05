@@ -10,7 +10,7 @@ h1 {
 }
 
 .header {
-  display: inline-block;
+  display: block;
 }
 
 .menu {
@@ -26,6 +26,7 @@ h1 {
   flex-basis: 630;
   flex-wrap: wrap;
   flex-direction: column;
+  align-items: center;
 }
 
 .medium {
