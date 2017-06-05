@@ -6,6 +6,7 @@ header {
 
 h1 {
   color: MediumAquamarine;
+  font-size: 14px;
 }
 
 .header {
@@ -35,21 +36,45 @@ h1 {
 }
 
 .mainheadline {
+  display: flex;
   background-image: url("./resources/images/img-story-main.png")
 }
 
 .earth {
+  display: flex;
   background-image: url("./resources/images/season.png");
 }
 
 .camera {
+  display: flex;
   background-image: url("./resources/images/hipster.png");
 }
 
 .cats {
+  display: flex;
   background-image: url("./resources/images/cat_ceo.png");
 }
 
 .cookie {
+  display: flex;
   background-image: url(".resources/images.cookie.png")
+}
+
+#mainstory {
+  font-family: Georgia;
+  font-size: 40px;
+  color: black;
+}
+
+p {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+
+h4 {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
 }
