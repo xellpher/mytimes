@@ -94,6 +94,11 @@ section {
   justify-content: space-between;
 }
 
+.news-bites {
+  display: flex;
+  flex-direction: column;
+}
+
 footer {
   height: 325px;
   background-color: MediumAquamarine;
@@ -103,4 +108,19 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-between;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: Georgia
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
 }
