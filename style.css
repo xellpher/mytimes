@@ -66,16 +66,18 @@ h1 {
   background-image: url(".resources/images.cookie.png")
 }
 
-#mainstory {
-  font-family: Georgia;
-  font-size: 40px;
-  color: black;
-}
 
 p {
   font-family: Georgia;
   font-size: 17px;
   color: black;
+}
+
+#mainhead {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
 }
 
 h4 {
