@@ -24,7 +24,8 @@ h1 {
   display: flex;
   border: 1px solid black;
   flex-basis: 630;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .medium {
