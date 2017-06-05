@@ -12,6 +12,7 @@ header {
   background-color: white;
   justify-content: space-between;
   margin-top: -8px;
+  margin-right: 15px;
 }
 
 section {
@@ -43,7 +44,7 @@ section {
 }
 
 .main-image {
-  background-image: image("./resources/images/img-story-main.png");
+  background-image: src("./resources/images/img-story-main.png");
   font-size: 40px;
   display: flex;
   font-family: Georgia;
@@ -62,7 +63,7 @@ section {
 }
 
 .earth-spins {
-  background-image: image("./resources/images/season.png");
+  background-image: src("./resources/images/season.png");
   text-align: center;
   display: flex;
   font-family: Georgia;
