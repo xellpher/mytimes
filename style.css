@@ -42,7 +42,7 @@ section {
   width: 630px;
 }
 
-.main-story .image-content {
+.main-image {
   background-image: image("./resources/images/img-story-main.png");
   font-size: 40px;
 }
