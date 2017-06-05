@@ -31,3 +31,19 @@ h1 {
 .mainheadline {
   background-image: url("./resources/images/img-story-main.png")
 }
+
+.earth {
+  background-image: url("./resources/images/season.png");
+}
+
+.camera {
+  background-image: url("./resources/images/hipster.png");
+}
+
+.cats {
+  background-image: url("./resources/images/cat_ceo.png");
+}
+
+.cookie {
+  background-image: url(".resources/images.cookie.png")
+}
