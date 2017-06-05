@@ -44,7 +44,7 @@ section {
 }
 
 .main-image {
-  background-image: src("./resources/images/img-story-main.png");
+  background-image: url("./resources/images/img-story-main.png");
   font-size: 40px;
   display: flex;
   font-family: Georgia;
@@ -63,7 +63,7 @@ section {
 }
 
 .earth-spins {
-  background-image: src("./resources/images/season.png");
+  background-image: url("./resources/images/season.png");
   text-align: center;
   display: flex;
   font-family: Georgia;
