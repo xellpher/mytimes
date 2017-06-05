@@ -53,15 +53,6 @@ section {
   height: 300px;
 }
 
-.image-content {
-  display: flex;
-  font-family: Georgia;
-  font-weight: bold;
-  color: white;
-  font-size: 30px;
-  height: 300px;
-}
-
 .earth-spins {
   background-image: url("./resources/images/season.png");
   text-align: center;
@@ -73,7 +64,15 @@ section {
   height: 300px;
 }
 
-
+.camera {
+  background-image: url("./resources/images/hipster.png");
+  font-size: 40px;
+  display: flex;
+  font-family: Georgia;
+  font-weight: bold;
+  color: white;
+  height: 300px;
+}
 
 .other-stories {
   display: flex;
