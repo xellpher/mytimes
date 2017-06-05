@@ -56,6 +56,13 @@ section {
   height: 300px;
 }
 
+.earth-spins {
+  background-image: image("./resources/images/season.png");
+  text-align: center;
+}
+
+
+
 .other-stories {
   display: flex;
   flex-direction: column;
