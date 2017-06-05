@@ -44,6 +44,7 @@ section {
 
 #mainhead {
   font-size: 40px;
+  color: white;
 }
 
 }
@@ -69,24 +70,35 @@ section {
   flex-direction: column;
 }
 
-.mainheadline {
+
+}
+
+.image-content {
   display: flex;
-  background-image: url("./resources/images/img-story-main.png")
+  font-family: Georgia;
+  font-weight: bold;
+  color: white;
+  height: 300px;
+}
+
+.mainstory {
+  background-image: image("./resources/images/img-story-main.png");
+  font-size: 40px;
 }
 
 .earth {
-  display: flex;
-  background-image: url("./resources/images/season.png");
+  text-align: center;
+  background-image: image("./resources/images/season.png");
 }
 
 .camera {
-  display: flex;
-  background-image: url("./resources/images/hipster.png");
+  text-align: center;
+  background-image: image("./resources/images/hipster.jpg");
 }
 
 .cats {
-  display: flex;
-  background-image: url("./resources/images/cat_ceo.png");
+  text-align: center;
+  background-image: image("./resources/images/cat-ceo.png");
 }
 
 .cookie {
