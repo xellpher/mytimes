@@ -11,6 +11,13 @@ section {
   color: black;
 }
 
+.logo {
+  display: flex;
+  align-items: center;
+  color: MediumAquamarine;
+  padding-left: 30px;
+}
+
 .large-column {
   width: 640px;
   display: flex;
