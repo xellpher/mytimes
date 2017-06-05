@@ -10,7 +10,7 @@ h1 {
 .main {
   display: flex;
 }
-.left{
+.left {
   border: 1px solid black;
   width: 630px;
   display: flex;
@@ -26,4 +26,8 @@ h1 {
   border: 1px solid black;
   width: 240px;
   container: flex;
+}
+
+.mainheadline {
+  background-image: url("./resources/images/img-story-main.png")
 }
